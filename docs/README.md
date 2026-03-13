@@ -1,3 +1,7 @@
+# Vídeo explicatico
+
+- [link do youtube](https://youtu.be/8vx05XQh0kk)
+
 # Projeto 02 — Operação Marketplace: Fraude em E-commerce
 
 > **Disciplina:** Programação para Ciência de Dados
